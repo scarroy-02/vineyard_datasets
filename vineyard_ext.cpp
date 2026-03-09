@@ -21,6 +21,7 @@
 #include <numeric>
 #include <tuple>
 #include <cmath>
+#include <map>
 
 #include <gudhi/Matrix.h>
 #include <gudhi/persistence_matrix_options.h>
